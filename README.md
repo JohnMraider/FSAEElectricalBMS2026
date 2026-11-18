@@ -20,4 +20,5 @@ This repository contains the hardware, firmware, software, and documentation dev
 |---|---|
 | `main` | For finalized code |
 | `dev` | For in-progress shared code |
-| `feature` | For individual tasks |
+  | `feature' | for individual tasks
+note: you will have to make your own feature branch each time that you start a new individual task
